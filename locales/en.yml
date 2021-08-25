@@ -590,11 +590,10 @@ strings:
     language_btn: Language
     pm_for_help: "Contact me in PM to get the list of possible commands."
     private: |-
-      Hey there! My name is Alita ✨.
+      Hemlo vro, moi name iz (khud de lo)😑
       Chal haat lode😐, me no going to help you😬!
-      Hit /help to find out more about how to use me to my full potential.
+      And ofc don't use /help😶.
 
-      Join my [News Channel](http://t.me/Family_bites) to get information on all the latest updates.
     public_help: "Press the button below to get help for <i>{help_option}</i>"
     source_code: "Source Code"
   utils:
