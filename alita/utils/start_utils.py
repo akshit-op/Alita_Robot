@@ -74,7 +74,7 @@ async def gen_start_kb(q: Message or CallbackQuery):
                 (f"🌐 {(tlang(q, 'start.language_btn'))}", "chlang"),
                 (
                     f"🗃️ {(tlang(q, 'start.source_code'))}",
-                    "https://telegra.ph/Ultroid-08-25",
+                    "https://telegra.ph/file/ad87d33e28fc2fb39c7f6.jpg",
                     "url",
                 ),
             ],
