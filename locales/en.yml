@@ -114,7 +114,7 @@ strings:
       help: |-
         Formatting
 
-        Alita supports a large number of formatting options to make your messages more expressive. Take a look by clicking the buttons below!
+        Akshit'manager supports a large number of formatting options to make your messages more expressive. Take a look by clicking the buttons below!
     fun:
       main: "Fun"
       help: |-
@@ -134,8 +134,6 @@ strings:
         Easily change by using this module!
 
         Just type /lang and use inline keyboard to choose a language for yourself or your group.
-
-        You can help us bring bot to more languages by helping on [Crowdin](https://crowdin.com/project/alita_robot)
     locks:
       main: "Locks"
       help: |-
@@ -375,7 +373,7 @@ strings:
       %%%
       how are you</code>
       This will randomly choose between sending the first message, "hello", or the second message, "how are you".
-      Use this to make Alita feel a bit more customised! (only works in filters/notes)
+      Use this to make me feel a bit more customised! (only works in filters/notes)
 
       Example welcome message::
       - Every time a new user joins, they'll be presented with one of the three messages shown here.
@@ -485,12 +483,11 @@ strings:
 
       All the fund would be put into my services such as database, storage and hosting!
 
-      You can donate by contacting my owner here: @DivideProjectsBot
+      You can donate by contacting my owner here: @Akshit_sinha
     back_btn: Back
     check_help: "Please check help on how to use this this command."
     close_btn: Close
     commands_available: |-
-      Hey There! My name is Alita.
       I'm here to help you manage your groups!
       Commands available:
        × /start: Start the bot
@@ -511,7 +508,6 @@ strings:
     changelang: |-
       Here you can change language for the bot.
 
-      You can help us bring bot to more languages by helping on [Crowdin](https://crowdin.com/project/alita_robot)
     correct_usage: |-
       <b>Correct Usage:</b>
       /lang or /setlang language-code
@@ -580,11 +576,11 @@ strings:
     commands_btn: Commands & Help
     group: "I'm alive :3"
     info_page: |-
-      • @Alita_Robot
+      • @ultra_pero_manager_bot
 
       <b>Version:</b> <i>{version}</i>
 
-      <b>Developers:</b> [Divkix](https://github.com/Divkix)
+      <b>Developers:</b> [Akshit](https://t.me/akshit-sinha)
       <b>Owner:</b> [{Owner}](tg://user?id={ID})
     support_group: Support
     language_btn: Language
